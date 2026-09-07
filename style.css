@@ -33,7 +33,7 @@ body{
 }
 
 .logo{
-    background-image: url("pictures/Amazon Logo.png");
+    background-image: url("Pictures/Amazon Logo.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -540,7 +540,7 @@ ul a:hover{
 }
 
 .footer-logo{
-    background-image: url("pictures/Amazon Logo.png");
+    background-image: url("Pictures/Amazon Logo.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
